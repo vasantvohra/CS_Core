@@ -18,13 +18,13 @@
 <li> Generative models (GANS study first)
 <li> Graphical and baysian models
 </ol>
-### Optimization
+### Optimization:
 <ol> 
 <li> Vanila Gradient Descent
 <li> Adam optimizer
 <li> Nestrov Gradient Descent
 </ol>
-### Regualrization
+### Regualrization:
 <ol> 
 <li> stalling
 <li> Vanishing and exploding gradients
