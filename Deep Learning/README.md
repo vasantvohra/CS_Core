@@ -2,8 +2,9 @@
 ## Programming Language: Python
 ## Libraries : TensorFlow, Keras, Pytorch
 ### Concepts:
-<ol>
+
 [Supervised and Unsupervised](https://towardsdatascience.com/supervised-unsupervised-and-deep-learning-aa61a0e5471c)
+<ol>
 <li> Perceptron
 <li> Backpropagation
 <li> Feed Forward Neural Network
@@ -18,13 +19,17 @@
 <li> Generative models (GANS study first)
 <li> Graphical and baysian models
 </ol>
+
 ### Optimization:
+
 <ol> 
 <li> Vanila Gradient Descent
 <li> Adam optimizer
 <li> Nestrov Gradient Descent
 </ol>
+
 ### Regualrization:
+
 <ol> 
 <li> stalling
 <li> Vanishing and exploding gradients
