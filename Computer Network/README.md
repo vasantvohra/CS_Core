@@ -1,2 +1,8 @@
-# CS_Core
-Practicing Core <mark> Undergrad </mark> computer Science subjects practically in Python programming language.
+# Computer Network
+<ol>
+<li> Dijikstra
+<li> Client Server
+<li> TCP/IP
+<li> UDP
+<li> Full Fledged Real Time application
+</ol>

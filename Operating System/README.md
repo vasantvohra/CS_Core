@@ -1,2 +1,18 @@
-# CS_Core
-Practicing Core <mark> Undergrad </mark> computer Science subjects practically in Python programming language.
+# Operating System
+## Scheduling
+<ol>
+<li> FCFS
+<li> SJF
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+

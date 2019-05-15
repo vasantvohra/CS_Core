@@ -1,2 +1,10 @@
-# CS_Core
-Practicing Core <mark> Undergrad </mark> computer Science subjects practically in Python programming language.
+# Data Mining
+Clustering 
+OLAP OLTP
+K means
+Naive Bayes
+Market Basket Analysis
+Spatial mining
+Temporal mining
+Social Networking Mining
+Web Mining
